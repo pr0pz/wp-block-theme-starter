@@ -1,6 +1,2 @@
 #Systemfiles
-.DS_store
-
-# CSS Files
-*.css
-*.min.css%  
+.DS_store 
